@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shuklajikachhora (NandanShukla)
+- 👋 Hi, I’m @Nandan1609 (NandanShukla)
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning C#
 - 📫 How to reach me nandanshukla2009@gmail.com
